@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NsindisoCodes21
 - 👀 I’m interested in providing solutions using code
 - 🌱 I’m currently learning front-end programming languages 
--interested in projects coded in c#,Java,python, c++
+- I'm interested in projects coded in c#,Java,python, c++
 - contact me via Instagram @nsindiso._
 
 <!---
